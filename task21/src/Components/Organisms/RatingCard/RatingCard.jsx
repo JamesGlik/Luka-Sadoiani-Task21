@@ -4,7 +4,7 @@ import StarIcon from '../../Molecules/StarIcon/StarIcon';
 import { Title, Paragraph } from '../../Atoms/Text/Text';
 import NumberSelector from '../../Molecules/NumberSelector/NumberSelector';
 import Button from '../../Atoms/Button/Button';
-import starImage from '../../../assets/Star.png';
+import starImage from '../../../assets/star.png';
 
 
 const Card = styled.div`
